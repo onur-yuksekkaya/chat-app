@@ -1,6 +1,6 @@
 ## Chat APP
 
-## [Live Demo ()=>](https://chat-app-kodin21.netlify.app/)
+## [Live Demo ()=>](https://chat-app-onuryks.netlify.app)
 
 <video src="https://user-images.githubusercontent.com/58252790/129451307-49c6cb06-70bf-487a-aef5-4b67ce42c337.mp4" width="1280" height="720" controls preload autoplay></video>
 

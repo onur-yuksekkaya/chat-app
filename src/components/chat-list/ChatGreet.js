@@ -12,7 +12,7 @@ export default function ChatGreet() {
       <h1>{chat_greet_hello}</h1>
       <p>{chat_greet_rooms}</p>
       <a
-        href="https://github.com/kodin21/chat-app-team-c"
+        href="https://github.com/onur-yuksekkaya/chat-app"
         className="github-link"
         target="_blank"
         rel="noreferrer"
