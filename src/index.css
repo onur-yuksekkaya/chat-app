@@ -5,6 +5,10 @@
   font-weight: 400;
 }
 
+#root {
+  min-height: 100vh;
+}
+
 *,
 *::before,
 *::after {
@@ -31,5 +35,11 @@ code {
 @media only screen and (max-width: 87em) {
   html {
     font-size: 55%;
+  }
+}
+
+@media only screen and (max-width: 59em) {
+  html {
+    font-size: 45%;
   }
 }
